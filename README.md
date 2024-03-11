@@ -1,0 +1,2 @@
+# RickAndMortyAPI_Project_Diego_Olivo
+EXAMEN PRÁCTICO LENGUAJE DE MARCAS DIEGO OLIVO
